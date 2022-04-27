@@ -13,8 +13,8 @@ contra a máquina.
 - [x] Opção de jogar contra inteligência artificial.
 
 ## Exemplo de funcionamento:
-<img src="velha11.gif" alt="Gif jogo de dois jogadores" style="width:400px">
-<img src="velhamaq.gif" alt="Gif jogo com a máquina" style="width:400px">
+![Gif jogo da dois jogadores](img/velha11.gif)
+![Gif jogo da velha máquina](img/velhamaq.gif)
 
 ## Tecnologias utilizadas:
 * HTML
