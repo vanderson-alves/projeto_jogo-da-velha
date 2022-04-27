@@ -13,7 +13,9 @@ contra a máquina.
 - [x] Opção de jogar contra inteligência artificial.
 
 ## Exemplo de funcionamento:
+### Gameplay com dois jogadores:
 ![Gif jogo da dois jogadores](img/velha11.gif)
+### Gameplay contra a máquina:
 ![Gif jogo da velha máquina](img/velhamaq.gif)
 
 ## Tecnologias utilizadas:
